@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <title>今日のパノラマ</title>
+    <title>今日のパノラマ test</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 		<link href="css/normalize.css" rel="stylesheet">
@@ -14,7 +14,7 @@
   <body>
   <div class="container-back">
     <div class="container-main">
-      <div class="section-header"><h1>今日のパノラマ</h1>
+      <div class="section-header"><h1>今日のパノラマ test</h1>
       </div>
     </div>
     <div class="container-panorama"></div>
